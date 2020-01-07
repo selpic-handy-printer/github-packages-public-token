@@ -1,5 +1,5 @@
 # github-packages-public-token
 A public token for github packages.
 
-user: github-packages-public-token  
-token: 076c9d0873155e31f27a937429c238d26cd5a48b
+user : github-packages-public-token  
+token: 40c403-bff7f614-9bd0a6-4fb87-0b2e2e45a672fda (Please remove `-` manually)
